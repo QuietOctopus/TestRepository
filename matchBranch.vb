@@ -1,5 +1,5 @@
-Private Sub matchBranch()
+Private Function matchBranch()
 
 
 
-End Sub
+End Function
